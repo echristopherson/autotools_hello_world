@@ -1,0 +1,7 @@
+.*.swp
+*~
+\#*#
+.DS_Store
+Icon
+sync.ffs_db
+.unison*.tmp
